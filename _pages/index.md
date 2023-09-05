@@ -26,7 +26,7 @@ I think my biggest accomplishment for now is relocation to the Netherlands as a 
 
 ## Hobbies
 
-Motorcycle trips, DIY, playing video games, watching movies. Lately, I have enjoyed old fantastical movies like Blade Runner, Johnny Mnemonic, The 6th Day, Total Recall, etc. One of my favorite games it's Half-Life, but the last one that impressed me in terms of world transformations - is Layers of Fear.
+Motorcycle trips, DIY, playing video games, watching movies. Lately, I have enjoyed old science fiction movies like Blade Runner, Johnny Mnemonic, The 6th Day, Total Recall, etc. One of my favorite games it's Half-Life, but the last one that impressed me in terms of world transformations - is Layers of Fear.
 
 ## Career Goals
 
