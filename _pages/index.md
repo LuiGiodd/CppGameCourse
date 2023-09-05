@@ -10,34 +10,24 @@ redirect_from:
 
 ## Introduction
 
-Hi, my name is Nick
+Hi, my name is Nick. I'm a technical artist from Belarus. I've been working in the game industry for more than 9 years, more than half of this time I worked as a 3D artist. I decided to learn C++ to push my career and work at a deeper level with tool creation.
 
 ## Strengths
 
-<!---
-What are your strengths? What are you good at? Are you good in math? Do you like solving difficult problems? Do you consider yourself a critical thinker? Do you like to work in teams or do you do better as a solo flyer? What will you do to nourish your strengths?
--->
+Strong problem solving skills.
 
 ## Weakness
 
-<!---
-What are you not so good at? What do you find difficult? What do you want to improve about yourself? How do you think you can realize those improvements?
--->
+Lack of strong programming skills.
 
 ## Accomplishments
 
-<!---
-What are you proud of? Have you participated in any sports? Did you win any awards? Did you make something cool with your friends? Use this section to brag about yourself!
--->
+I think my biggest accomplishment for now is relocation to the Netherlands as a highly skilled migrant.
 
 ## Hobbies
 
-<!---
-What do you like doing in your spare time? What is your favorite video game (right now)? What kind of movies do you like? What kind of music do you like? Where is your favorite vacation spot?
--->
+Motorcycle trips, DIY, playing video games, watching movies. Lately, I have enjoyed old fantastical movies like Blade Runner, Johnny Mnemonic, The 6th Day, Total Recall, etc. One of my favorite games it's Half-Life, but the last one that impressed me in terms of world transformations - is Layers of Fear.
 
 ## Career Goals
 
-<!---
-What do you want to do when you graduate? What role do you see yourself in? Do you want to be the graphics programmer on your team or the gameplay programmer? Or maybe you are more interested in physics programming? Or maybe you'd just rather be the all-in-one guy that can help everyone in your team? Where do you want to work? Be specific! What companies appeal to you? Do you want to work in your home country or abroad? What steps do you need to take in order to acquire this job?
--->
+Become more professional as a technical artist. Improve my programming skills, it's almost the only one that I lack to be a solo developer :) 
