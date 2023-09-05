@@ -10,9 +10,7 @@ redirect_from:
 
 ## Introduction
 
-<!---
-Introduce yourself, who are you? Where are you from? Why do you want to be a game programmer? What got you interested in game development? For example, you could tell about the moment in your life that you realized that you wanted to be a game programmer. 
--->
+Hi, my name Nick
 
 ## Strengths
 
