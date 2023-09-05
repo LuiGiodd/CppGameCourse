@@ -10,7 +10,7 @@ redirect_from:
 
 ## Introduction
 
-Hi, my name Nick
+Hi, my name is Nick
 
 ## Strengths
 
