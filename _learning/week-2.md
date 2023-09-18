@@ -8,7 +8,7 @@ date: 2023-09-11
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+In the second week, our focus shifts towards mastering fundamental concepts in C++. We delve into topics such as data types, build processes, pointers, and references, all while undertaking practical tasks like creating windows and initiating our first sprite rasterization.
 
 ## Plan
 
