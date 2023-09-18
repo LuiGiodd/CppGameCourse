@@ -8,7 +8,7 @@ date: 2023-09-04
 location: "Breda, The Netherlands"
 ---
 
-This is a description of your learning experiences. You can use markdown like any other post.
+This marks the initial week in a 10-week C++ course, where we begin by configuring our development environment, establishing a GitHub page for our project, and learning portfolio.
 
 ## Plan
 
